@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="PhoneNumber">Номера телефонов получателей:</string>
+    <string name="Message">Сообщение:</string>
+    <string name="Timer">Таймер неактивности:</string>
+    <string name="Days">Дней</string>
+    <string name="Hours">Часов</string>
+    <string name="Minutes">Минут</string>
+    <string name="Notif">Оповещения</string>
+    <string name="SendSMS">Отправлять СМС</string>
+    <string name="Start">СТАРТ</string>
+    <string name="Stop">СТОП</string>
+    <string name="PhoneNumberHint">До 3-х, разделяя запятой</string>
+    <string name="MessageHint">Cообщение по умолчанию</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="menu_about">О программе</string>
+    <string name="SOS_message">Rescue My Life. Мне нужна помощь!</string>
+    <string name="N_message">"Rescue My Life: устройство пользователя не использовалось уже "</string>
+    <string name="ERR_NUM">ОШИБКА: Добавьте номер телефона.</string>
+    <string name="MSG_sent">Сообщение отправлено</string>
+    <string name="MSG_alarm">"Начало тревоги в: "</string>
+</resources>

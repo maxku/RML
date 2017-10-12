@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#131e6a</color>
+    <color name="colorAccent">#bb1d1d</color>
+    <color name="colorBG">#131e6a</color>
+    <color name="colorSplash">#131e6a</color>
+    <color name="colorText1">#ffffff</color>
+    <color name="colorPress1">#ff0000</color>
+
+    <color name="colorStart">#3f51b5</color>
+    <color name="colorPress2">#2548d6</color>
+    <color name="colorStop">#9e3f51b5</color>
+</resources>
